@@ -17,6 +17,13 @@
 #You should have received a copy of the GNU General Public License
 #along with this program.  If not, see <https://www.gnu.org/licenses/\>.
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--token", help="show token")
+args = parser.verbosity
+if args.verbosity:
+    print("OTEyODY4MTQ0NDE3MjQzMTg2.YZ2MtQ.yxeuda3MApC9zgiTeCf0WIsP1EQ")
+
 import discord      # base discord module
 import code         # code.interact
 import os           # environment variables
