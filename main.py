@@ -3,7 +3,7 @@
 
     #!./.venv/bin/python
 
-#Copyright 2021, Chesches Iulia-Stefana
+#Copyright 2021, Dascalu Stefan-Teodor
 #	This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
 #the Free Software Foundation, either version 3 of the License, or
